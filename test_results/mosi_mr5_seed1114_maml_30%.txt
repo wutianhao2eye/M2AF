@@ -1,0 +1,42 @@
+Timestamp: 2025-06-09 13:12:56
+MR = 0.1
+Individual Results:
+  Seed 1111: {'Acc_2': 0.6418, 'F1_score': 0.6433, 'Acc_7': 0.1749, 'MAE': 1.3324, 'Loss': 1.3385}
+Average Results: {'Acc_2': 0.6418, 'F1_score': 0.6433, 'Acc_7': 0.1749, 'MAE': 1.3324, 'Loss': 1.3385}
+
+Timestamp: 2025-06-09 13:14:13
+MR = 0.2
+Individual Results:
+  Seed 1111: {'Acc_2': 0.5915, 'F1_score': 0.5867, 'Acc_7': 0.1778, 'MAE': 1.3726, 'Loss': 1.3785}
+Average Results: {'Acc_2': 0.5915, 'F1_score': 0.5867, 'Acc_7': 0.1778, 'MAE': 1.3726, 'Loss': 1.3785}
+
+Timestamp: 2025-06-09 13:16:02
+MR = 0.3
+Individual Results:
+  Seed 1111: {'Acc_2': 0.5503, 'F1_score': 0.5434, 'Acc_7': 0.1939, 'MAE': 1.406, 'Loss': 1.4108}
+Average Results: {'Acc_2': 0.5503, 'F1_score': 0.5434, 'Acc_7': 0.1939, 'MAE': 1.406, 'Loss': 1.4108}
+
+Timestamp: 2025-06-09 13:18:25
+MR = 0.4
+Individual Results:
+  Seed 1111: {'Acc_2': 0.5625, 'F1_score': 0.564, 'Acc_7': 0.1603, 'MAE': 1.4099, 'Loss': 1.4151}
+Average Results: {'Acc_2': 0.5625, 'F1_score': 0.564, 'Acc_7': 0.1603, 'MAE': 1.4099, 'Loss': 1.4151}
+
+Timestamp: 2025-06-09 13:21:21
+MR = 0.5
+Individual Results:
+  Seed 1111: {'Acc_2': 0.5274, 'F1_score': 0.5302, 'Acc_7': 0.1618, 'MAE': 1.4184, 'Loss': 1.4235}
+Average Results: {'Acc_2': 0.5274, 'F1_score': 0.5302, 'Acc_7': 0.1618, 'MAE': 1.4184, 'Loss': 1.4235}
+
+Timestamp: 2025-06-09 13:24:53
+MR = 0.6
+Individual Results:
+  Seed 1111: {'Acc_2': 0.4924, 'F1_score': 0.4816, 'Acc_7': 0.172, 'MAE': 1.453, 'Loss': 1.4586}
+Average Results: {'Acc_2': 0.4924, 'F1_score': 0.4816, 'Acc_7': 0.172, 'MAE': 1.453, 'Loss': 1.4586}
+
+Timestamp: 2025-06-09 13:28:47
+MR = 0.7
+Individual Results:
+  Seed 1111: {'Acc_2': 0.5244, 'F1_score': 0.5177, 'Acc_7': 0.1429, 'MAE': 1.4554, 'Loss': 1.4609}
+Average Results: {'Acc_2': 0.5244, 'F1_score': 0.5177, 'Acc_7': 0.1429, 'MAE': 1.4554, 'Loss': 1.4609}
+
