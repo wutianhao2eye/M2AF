@@ -19,7 +19,7 @@ You can put the pretrained models  weights into `IMDER_trained_model/` directory
 
 (i.e., dataset=mosi 、MR=0.4、seed=1115 pretrained models for IMDER_trained_model\mosi\pt_mosi_mr4_seed1115\).
 
-You can also directly download the  pretrained model on IMDer under different missing rate [download](https://drive.google.com/drive/folders/1rYqT-lR-TF73pEkfT_csA-_YeHpEK84d?usp=drive_link) .
+You can also directly download the  pretrained model on IMDer under different missing rate [download](https://drive.google.com/drive/folders/1f7o1BEYxx1vFmjay4ycw1ZEnFFOURh5P?usp=drive_link) .
 
 You need to place the models trained by [IMDer](https://github.com/mdswyz/IMDer/tree/main) under different missing rates into `IMDER_trained_model/ ` directory.
 
